@@ -2,7 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/narpat solaink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narpat solaink" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/narpat-solanki-s11?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narpat solaink" height="30" width="40" /></a>
 <a href="https://m.facebook.com/profile.php?id=100066554591467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="narpatsolanki" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/itsnarpatsolanki01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/itsnarpatsolanki01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user//user/itsnarpatsel2l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="/user/itsnarpatsel2l" height="30" width="40" /></a>
